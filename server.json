@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/scrapecreators",
   "title": "Scrapecreators",
   "description": "ScrapeCreators MCP — wraps the ScrapeCreators social-media + ad-library",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/scrapecreators",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-scrapecreators",
