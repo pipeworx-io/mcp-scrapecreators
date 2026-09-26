@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-scrapecreators",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "ScrapeCreators MCP — wraps the ScrapeCreators social-media + ad-library",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-8efa92abe908583a2b1138bf735b6aa0a6f3bc6c6093e8bdae32915470a949d4",
-    "sourceCommit": "00c836ddeaecbdd581dcfb0fb1842efea104006e"
+    "sourceHash": "v1-6c1cdcd2eaa5c09fd8989503cbb009d20c30fda37235bf5f4f4a1806e5f777be",
+    "sourceCommit": "6fe8fb3e01138dfc4ebe7d5c246503aab9278d06"
   }
 }
