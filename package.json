@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-scrapecreators",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "ScrapeCreators MCP — wraps the ScrapeCreators social-media + ad-library scraping API (scrapecreators.com).",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "scrapecreators",
     "gatewaySlug": "scrapecreators",
-    "sourceHash": "v1-cd05f89ee92668ae7fc6376bfb300d3e7014fd208e8582aa172e770b170007c3",
-    "sourceCommit": "6bae4cfa7b6a73bbe014dc8820a19c80c842b21e"
+    "sourceHash": "v1-f50decefc4adc5c0c4edecb78f480bcb8c6c6641e89ce5e88f6a158670f56eda",
+    "sourceCommit": "8fc802aa5e23be625ce08d97178f5676c7bc93f3"
   }
 }
